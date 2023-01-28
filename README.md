@@ -1,1 +1,1 @@
-Physics informed neural networks for oscilatory boundary value problems. 
+Physics informed neural networks for oscillatory boundary value problems. 
